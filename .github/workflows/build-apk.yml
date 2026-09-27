@@ -1,4 +1,4 @@
-name: Build LiveWorld APK
+uses: android-actions/setup-android@v3name: Build LiveWorld APK
 
 on:
   workflow_dispatch:
